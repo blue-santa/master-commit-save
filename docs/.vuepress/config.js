@@ -69,6 +69,17 @@ module.exports = {
           ]
         },
         {
+          title: "Dynamic modules",
+          collapsable: true,
+          children: [
+            //[
+             // "/basic-docs/cryptoconditions/dynamic/dynamic-modules-instructions.md",
+              //"Instructions for loading and using dynamic modules"
+           // ],
+            ["/basic-docs/cryptoconditions/dynamic/cc-musig.md", "MuSig"]
+          ]
+        },
+        {
           title: "Komodo API",
           collapsable: true,
           children: [
